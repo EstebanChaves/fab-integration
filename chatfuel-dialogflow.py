@@ -16,14 +16,14 @@ from models.dto import FromChatfuelDTO
 
 
 # FILL IN THE RIGHT VALUES FOR THE VARIABLES BELOW
-CHATFUEL_API_KEY = "YOUR_CHATFUEL_API_KEY"
-CHATFUEL_BOT_ID = "YOUR_CHATFUEL_BOT_ID"
-DIALOGFLOW_PROJECT_ID = "YOUR_DIALOGFLOW_PROJECT_ID"
 
 CHATFUEL_BASE_URL = "https://api.chatfuel.com/bots/"
 CHATFUEL_USERID_REQUEST_KEY = "messenger_user_id"
 CHATFUEL_LANGUAGE_REQUEST_KEY = "language_code"
 CHATFUEL_INPUT_REQUEST_KEY = "last_input"
+CHATFUEL_API_KEY = "chatfuel_key"
+CHATFUEL_BOT_ID = "chatfuel_id"
+DIALOGFLOW_PROJECT_ID = "df_project_id"
 
 app = Flask(__name__)
 
