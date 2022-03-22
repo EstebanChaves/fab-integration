@@ -21,9 +21,9 @@ CHATFUEL_BASE_URL = "https://api.chatfuel.com/bots/"
 CHATFUEL_USERID_REQUEST_KEY = "messenger_user_id"
 CHATFUEL_LANGUAGE_REQUEST_KEY = "language_code"
 CHATFUEL_INPUT_REQUEST_KEY = "last_input"
-CHATFUEL_API_KEY = "chatfuel_key"
-CHATFUEL_BOT_ID = "chatfuel_id"
-DIALOGFLOW_PROJECT_ID = "df_project_id"
+CHATFUEL_API_KEY = "mB3GoPw8VcK8EZgBGb7O1878jOVU00UZx6p6XoTPy6C3UUCJDWO7ngb6ZqAXmBXm"
+CHATFUEL_BOT_ID = "6239f98dd1ee141855f34519"
+DIALOGFLOW_PROJECT_ID = "restaurante-rpfj"
 
 app = Flask(__name__)
 
